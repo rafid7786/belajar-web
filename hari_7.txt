@@ -1,0 +1,9 @@
+=========
+-. POSITION 
+VALUE :
+    1. STATIC (DEFAULT)
+    2. RELATIVE
+    3. FIXED
+    4. ABSOLUTE
+    5. STICKY
+=========

@@ -1,0 +1,16 @@
+body{
+    background-color: black; 
+    color: white;
+}
+
+div{
+    width: 250px;
+    height: 400px;
+    background-color: brown;
+    text-align: center;
+}
+
+img{
+    height: auto;
+    width: 100%;
+}

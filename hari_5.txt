@@ -1,0 +1,43 @@
+STRUKTUR PENGGUNAAN FLEXBOX :
+1. INISIALISASI DISPLAY:FLEX;
+2. MENGGUNAKAN PROPERTY FLEXBOX
+
+
+
+
+FLEXBOX (FLEXIBLE BOX)
+
+1. FLEX DIRECTION
+2. FLEX WRAP 
+3. FLEX FLOW 
+4. ...
+
+
+============
+-. FLEX WRAP
+value:
+1. nowrap
+2. wrap
+3. wrap-reverse
+
+
+================
+SELECTOR (CARA MEMANGGIL ELEMEN DALAM CSS):
+1. TAG HTML 
+2. CLASS
+3. ID
+
+==============
+-. FLEX FLOW (SHORT CODE FLEX DIRECTION DAN FLEX WRAP) :
+Contoh :
+flex-flow : flex-direction flex-wrap;
+
+===================
+-. JUSTIFY CONTENT:
+Value :
+1. center
+2. flex-start
+3. flex-end
+4. space-around
+5. space-between
+6. space-evenly

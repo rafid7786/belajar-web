@@ -1,0 +1,26 @@
+FLEXIBEL BOX => FLEXBOX
+    ATURAN MENGGUNAKAN FLEX BOX :
+    1. INISIALISASI DISPLAY:FLEX
+    2. PASTIKAN MENGAMBIL NILAI PARENTNYA
+
+    PEMBAGIAN FLEXBOX:
+    1. FLEX CONTAINER
+    2. FLEX ITEM
+    3. FLEX RESPONSIVE
+
+
+1. FLEX CONTAINER
+-. flex-direction
+-. flex-wrap
+-. flex-flow
+-. justify-content
+-. align-items
+-. align-content
+
+:
+    -. FLEX DIRECTION 
+    VALUES :
+        1. row (nilai default)
+        2. column
+        3. row-reverse
+        4. column-reverse

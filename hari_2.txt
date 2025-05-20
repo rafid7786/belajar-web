@@ -1,0 +1,119 @@
+TAG LIST 
+==========
+1. OL (ORDERED LIST)
+2. UL (UN-ORDERED LIST)
+
+1. ORDERED LIST
+
+<ol>
+    <li></li>
+</ol>
+
+2. UN ORDERED LIST
+<ul>
+    <li></li>
+</ul>
+
+CONTOH :
+<ul>
+    <li>Apel</li>
+    <li>Mangga</li>
+    <li>Jeruk</li>
+</ul>
+
+<ol>
+    <li>Apel</li>
+    <li>Mangga</li>
+    <li>Jeruk</li>
+</ol>
+
+TAG HYPERLINK
+=============
+<a href=""></a>
+
+CONTOH :
+<a href="https://www.instagram.com/dkyfrnd_"Ini instagram saya </a>
+
+
+TAG IMAGE
+=========
+<img src=""></img>
+
+CONTOH :
+<img src=""></img>
+<img src="./if2.png" alt="Ini adalah contoh code" />
+
+
+TAG TABLE
+=========
+<table>
+    <tr>
+        <td></td>
+    </tr>
+    <tr>
+        <td></td>
+    <tr>
+</table>
+
+CONTOH 
+<table border="2">
+    <tr>
+        <th>List Nama</th>
+        <th>Umur</th>
+        <th>Kelas</th>
+    </tr>
+    <tr>
+        <td>Rafid</td>
+        <td>14</td>
+        <td>9</td>
+    </tr>
+    <tr>
+        <td>Dicky</td>
+        <td>21</td>
+        <td>Lulus</td>
+    </tr>
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSS (CASCADING STYLE SHEET) => STYLING
+
+CARA MENGGUNAKAN CSS :
+1. IN-LINE CSS
+2. INTERNAL CSS
+3. EKSTERNAL CSS
+
+IN-LINE CSS => ADA DI DALAM BARIS KODE
+CONTOH :
+<h1 style="color:red">Rafid Wafi</h1>
+
+INTERNAL CSS => ADA DI DALAM 1 FILE HTML
+<style>
+    h1 {
+    color: gold;
+    }
+</style>
+
+EKSTERNAL CSS => BERADA DI LUAR FILE HTML (.css)
+<link rel="stylesheet" href="./hari_2.css">
+
+

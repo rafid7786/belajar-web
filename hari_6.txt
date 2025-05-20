@@ -1,0 +1,19 @@
+============
+ALIGN-ITEMS
+VALUE :
+-. center
+-. flex=start
+-. flex-end
+-. stretch
+-. baseline
+-. normal
+================
+ALIGN-CONTENT
+VALUE:
+-. center
+-. stretch
+-. flex-start
+-. flex-end
+-. space-around
+-. space-between
+-. space-evenly

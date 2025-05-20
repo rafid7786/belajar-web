@@ -1,0 +1,53 @@
+body {
+    margin: 0;
+    background-color: blue;
+}
+
+.container {
+    display: flex;
+    min-height: 100vh;
+    flex-direction: column;
+    padding: 20px;
+    gap: 20px;
+}
+
+.left,
+.right {
+    flex: 1;
+}
+
+.left img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+}
+
+
+.right {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+/*media queries untuk responsive */
+@media (min-width: 760px) {
+    .container {
+        flex-direction: row;
+        align-items: center;
+    }
+}
+
+
+/*
+mobile  / handphone = 768px
+
+@media (max-width: 768px) {
+aturan yang kamu buat disini, akan berlaku ketika ukuran layar lebih kecil dari yang kamu tentukan diatas
+}
+
+@media (min-width: 1080px ) {
+
+}
+
+*/
